@@ -6,7 +6,6 @@ Epitech student in 3ᵉ year in Paris
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [shemtovsamuel@gmail.com](mailto:shemtovsamuel@gmail.com)
-* ⚡  I am looking for a part time job from October to March for my third year at Epitech
 
 ### Skills
 
