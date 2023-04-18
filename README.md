@@ -1,7 +1,7 @@
 Hi 👋 My name is Samuel Shemtov
 ===============================
 
-Etudiant Epitech en 2ᵉ année à Paris
+Epitech student in 3ᵉ year in Paris
 ------------------------------------
 
 * 🌍  I'm based in Paris
