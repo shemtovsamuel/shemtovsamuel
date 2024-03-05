@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/889476274890870784/1214536509961543690/PP.png?ex=65f97844&is=65e70344&hm=4dd5601d432bc2f9f0efb6be6fdc3322ffb4a6bd67fdc831d5faa7e7b27f047f&"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -40,9 +36,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/shemtovsamuel/shemtovsamuel/output/snake.svg" alt="Snake animation" />
 
 ###
